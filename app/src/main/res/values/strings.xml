@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Issue 470114250</string>
+    <string name="accessibility_service_label">Debug Accessibility Service</string>
+    <string name="accessibility_service_description">Logs the accessibility node hierarchy to logcat for debugging Android 16 accessibility bugs.</string>
+    <string name="issue_link">Issue: https://issuetracker.google.com/issues/470114250</string>
+    <string name="open_accessibility_settings">Open Accessibility Settings</string>
+    <string name="open_gms_settings">Open GMS App Info</string>
+</resources>
