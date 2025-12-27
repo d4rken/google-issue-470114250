@@ -2,6 +2,15 @@
 
 Minimal reproducer app for [Google Issue #470114250](https://issuetracker.google.com/issues/470114250).
 
+## Download
+
+**[Download APK](https://github.com/d4rken/google-issue-470114250/releases/latest/download/app-debug.apk)**
+
+Or install via adb:
+```
+adb install app-debug.apk
+```
+
 ## The Bug
 
 **AccessibilityService tree excludes clickable nodes visible to UIAutomator in Settings**
